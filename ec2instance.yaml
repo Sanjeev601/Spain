@@ -1,0 +1,9 @@
+Resources:
+  myEC2Instance:
+    Type: AWS::EC2::Instance
+    Properties: 
+      ImageId: ami-069c45f40acdfe41e
+      InstanceType: t2.micro
+      Tags:
+        - Key: Name
+          Value: Server01
