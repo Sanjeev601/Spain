@@ -7,4 +7,4 @@ Resources:
       InstanceType: t2.micro
       Tags:
         - Key: Name
-          Value: Server01
+          Value: Server02
