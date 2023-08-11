@@ -1,0 +1,5 @@
+variable "AWS Deployment" {
+    type = "AmazonWebServicesAccount"
+
+    value "aws-deployment" {}
+}
